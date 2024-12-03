@@ -68,6 +68,9 @@ dependencies:
   # Font Awesome Icons
   font_awesome_flutter: ^10.8.0
 
+  # Print Log
+  logger: ^2.5.0
+
 
 
 dev_dependencies:
